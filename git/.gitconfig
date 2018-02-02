@@ -1,0 +1,17 @@
+
+[user]
+	name = Logan Byers
+	email = 5625411+loganbyers@users.noreply.github.com
+
+[core]
+	editor = vim
+
+[color]
+	ui=auto
+
+
+[url "ssh://git@github.com"]
+	insteadOf = https://github.com
+
+[url "ssh://git@github.com"]
+	pushInsteadOf = https://github.com
